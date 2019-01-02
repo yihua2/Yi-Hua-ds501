@@ -1,5 +1,5 @@
-# Yi-Hua-ds501
-# Music Box Capstone Project- Yi Hua
+
+# Music Box Capstone Project
 ## Introduction
 
 The music box data features large number of log files that contain the events of users created with different songs. In this project, I mainly addressed two goals: to predict churn of a user through the user's behavior data and to build a recommender system that recommends the appropriate song to a user, based on his/her history data. In both missions, feature engineering is critical yet challenging due to the size of the data. Throughout the project, apart from down-sampling the data to 10%, I used PySpark as the tool to generate features as well as for building the recommendation system. 
